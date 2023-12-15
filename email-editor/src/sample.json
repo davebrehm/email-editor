@@ -1,0 +1,1558 @@
+{
+  "counters": {
+    "u_row": 15,
+    "u_column": 21,
+    "u_content_menu": 1,
+    "u_content_text": 24,
+    "u_content_image": 8,
+    "u_content_button": 2,
+    "u_content_divider": 2,
+    "u_content_heading": 4,
+    "u_content_social": 1,
+    "u_content_video": 1,
+    "u_content_timer": 1,
+    "u_content_html": 5
+  },
+  "body": {
+    "id": "0QFAKPxyzM",
+    "rows": [
+      {
+        "id": "-Pm2fEb9Wp",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "aREOk3UC4g",
+            "contents": [
+              {
+                "id": "wQof8hV6QL",
+                "type": "heading",
+                "values": {
+                  "containerPadding": "0px",
+                  "anchor": "",
+                  "headingType": "h1",
+                  "fontFamily": {
+                    "label": "Work Sans",
+                    "value": "'Work Sans', sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontWeight": 400,
+                  "fontSize": "48px",
+                  "color": "#ffffff",
+                  "textAlign": "center",
+                  "lineHeight": "280%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_heading_1",
+                    "htmlClassNames": "u_content_heading"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<span style=\"line-height: 134.4px;\"><span style=\"line-height: 134.4px;\"><span style=\"line-height: 134.4px;\"><span style=\"line-height: 134.4px;\">Email-Template</span></span></span></span>",
+                  "_override": {
+                    "mobile": {
+                      "fontSize": "45px"
+                    }
+                  }
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "0px",
+              "backgroundColor": ""
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "Rd4HAvqb8t",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "_t6kskqCwL",
+            "contents": [
+              {
+                "id": "AF8ZpW__0i",
+                "type": "image",
+                "values": {
+                  "containerPadding": "0px",
+                  "anchor": "",
+                  "src": {
+                    "url": "https://a.mailmunch.co/user_data/landing_pages/1701581249869-973816",
+                    "width": 640,
+                    "height": 356,
+                    "id": 17887869,
+                    "contentType": "image/jpeg",
+                    "size": 79741
+                  },
+                  "textAlign": "center",
+                  "altText": "img",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_2",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "pending": false
+                }
+              },
+              {
+                "id": "T_w1lypU3k",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Work Sans",
+                    "value": "'Work Sans', sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontWeight": 700,
+                  "fontSize": "21px",
+                  "color": "#9d9d9d",
+                  "textAlign": "center",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_5",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 140%;\">All the ports you need and faster Wi-Fi 6E.3</p>",
+                  "_override": {
+                    "mobile": {
+                      "fontSize": "18px"
+                    }
+                  }
+                }
+              },
+              {
+                "id": "48E51zA5ZQ",
+                "type": "divider",
+                "values": {
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#BBBBBB"
+                  },
+                  "textAlign": "center",
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_divider_2",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_4",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "0px",
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "15px 15px 70px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_3",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "jioP_9vaWB",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "4c0Q_huKmk",
+            "contents": [
+              {
+                "id": "D3MItKWtiv",
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin-top:60px\"></div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_2",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_19",
+                "htmlClassNames": "u_column"
+              }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_13",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "xsDeI6ThVX",
+        "cells": [1, 1],
+        "columns": [
+          {
+            "id": "PtkZbFNtjL",
+            "contents": [
+              {
+                "id": "JZtislN2W7",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Work Sans",
+                    "value": "'Work Sans', sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "24px",
+                  "textAlign": "center",
+                  "lineHeight": "120%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_11",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 120%;\">Apple Card Monthly Installments.</p>"
+                }
+              },
+              {
+                "id": "9rqc5f7Vsk",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "14px",
+                  "textAlign": "center",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_24",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 150%;\">Pay over time, interest-free when you choose to check out with Apple Card Monthly Installments.</p>"
+                }
+              },
+              {
+                "id": "le8EzyAcDY",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "14px",
+                  "color": "#0071e3",
+                  "textAlign": "center",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_13",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 140%;\">Learn more</p>"
+                }
+              },
+              {
+                "id": "EZmcoOSqCd",
+                "type": "image",
+                "values": {
+                  "containerPadding": "0px",
+                  "anchor": "",
+                  "src": {
+                    "url": "https://assets.unlayer.com/projects/139/1676497065877-apple_card_2x.jpg",
+                    "width": 700,
+                    "height": 390
+                  },
+                  "textAlign": "center",
+                  "altText": "img",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_7",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_8",
+                "htmlClassNames": "u_column"
+              },
+              "border": {
+                "borderTopColor": "#CCC",
+                "borderTopStyle": "solid",
+                "borderTopWidth": "0px",
+                "borderLeftColor": "#CCC",
+                "borderLeftStyle": "solid",
+                "borderLeftWidth": "0px",
+                "borderRightColor": "#1d1d1f",
+                "borderRightStyle": "solid",
+                "borderRightWidth": "5px",
+                "borderBottomColor": "#CCC",
+                "borderBottomStyle": "solid",
+                "borderBottomWidth": "0px"
+              },
+              "padding": "33px 0px 0px",
+              "_override": {
+                "mobile": {
+                  "border": {
+                    "borderTopColor": "#CCC",
+                    "borderTopStyle": "solid",
+                    "borderTopWidth": "0px",
+                    "borderLeftColor": "#CCC",
+                    "borderLeftStyle": "solid",
+                    "borderLeftWidth": "0px",
+                    "borderRightColor": "#CCC",
+                    "borderRightStyle": "solid",
+                    "borderRightWidth": "0px",
+                    "borderBottomColor": "#CCC",
+                    "borderBottomStyle": "solid",
+                    "borderBottomWidth": "0px"
+                  }
+                }
+              },
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          },
+          {
+            "id": "jAFMuhCh-p",
+            "contents": [
+              {
+                "id": "tXUPtUC2gk",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Work Sans",
+                    "value": "'Work Sans', sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "24px",
+                  "textAlign": "center",
+                  "lineHeight": "120%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_21",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 120%;\">Save on a new</p>\n<p style=\"line-height: 120%;\">Mac with Apple</p>\n<p style=\"line-height: 120%;\">education pricing.</p>"
+                }
+              },
+              {
+                "id": "fUoTe1sYhQ",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "14px",
+                  "color": "#0071e3",
+                  "textAlign": "center",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_23",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 140%;\">Shop</p>"
+                }
+              },
+              {
+                "id": "ij9PdsfvZQ",
+                "type": "image",
+                "values": {
+                  "containerPadding": "21px 0px 0px",
+                  "anchor": "",
+                  "src": {
+                    "url": "https://assets.unlayer.com/projects/139/1676497143860-edu_mac_2x.jpg",
+                    "width": 700,
+                    "height": 390
+                  },
+                  "textAlign": "center",
+                  "altText": "img",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_8",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_9",
+                "htmlClassNames": "u_column"
+              },
+              "border": {
+                "borderTopColor": "#CCC",
+                "borderTopStyle": "solid",
+                "borderTopWidth": "0px",
+                "borderLeftColor": "#1d1d1f",
+                "borderLeftStyle": "solid",
+                "borderLeftWidth": "5px",
+                "borderRightColor": "#CCC",
+                "borderRightStyle": "solid",
+                "borderRightWidth": "0px",
+                "borderBottomColor": "#CCC",
+                "borderBottomStyle": "solid",
+                "borderBottomWidth": "0px"
+              },
+              "padding": "33px 0px 0px",
+              "_override": {
+                "mobile": {
+                  "border": {
+                    "borderTopColor": "#CCC",
+                    "borderTopStyle": "solid",
+                    "borderTopWidth": "0px",
+                    "borderLeftColor": "#CCC",
+                    "borderLeftStyle": "solid",
+                    "borderLeftWidth": "0px",
+                    "borderRightColor": "#CCC",
+                    "borderRightStyle": "solid",
+                    "borderRightWidth": "0px",
+                    "borderBottomColor": "#CCC",
+                    "borderBottomStyle": "solid",
+                    "borderBottomWidth": "0px"
+                  }
+                }
+              },
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "#1d1d1f",
+          "columnsBackgroundColor": "#000000",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "5px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_6",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "GyxkKaDoVf",
+        "cells": [35.72, 64.28],
+        "columns": [
+          {
+            "id": "_QiC12awFa",
+            "contents": [
+              {
+                "id": "S_hqZ7HMSl",
+                "type": "image",
+                "values": {
+                  "containerPadding": "25px 0px 0px",
+                  "anchor": "",
+                  "src": {
+                    "url": "https://a.mailmunch.co/user_data/landing_pages/1701576271990-Screenshot_1.jpg",
+                    "width": 258,
+                    "height": 175,
+                    "autoWidth": true,
+                    "maxWidth": "100%"
+                  },
+                  "textAlign": "left",
+                  "altText": "img",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_6",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_12",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "0px",
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          },
+          {
+            "id": "tBvHHdYsbP",
+            "contents": [
+              {
+                "id": "YBq_C6WCxM",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Work Sans",
+                    "value": "'Work Sans', sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "24px",
+                  "textAlign": "center",
+                  "lineHeight": "120%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_18",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 120%;\">Proximity</p>"
+                }
+              },
+              {
+                "id": "0DF1Wlu-f8",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "14px",
+                  "textAlign": "center",
+                  "lineHeight": "150%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_19",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 150%;\">Your Specialists can help you choose, configure, and buy the perfect Mac.</p>"
+                }
+              },
+              {
+                "id": "3PX82nq2MS",
+                "type": "text",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "14px",
+                  "color": "#0071e3",
+                  "textAlign": "center",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_20",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 140%;\">Find a store</p>"
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_13",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "33px",
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "#1d1d1f",
+          "columnsBackgroundColor": "#000000",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "5px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_8",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "8LO7RfOaJp",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "81KC6dd3gQ",
+            "contents": [
+              {
+                "id": "A46mALmU9L",
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin-top:60px\"></div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_3",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": {
+                "htmlID": "u_column_20",
+                "htmlClassNames": "u_column"
+              }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_14",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "A-f41NTazI",
+        "cells": [1, 1],
+        "columns": [
+          {
+            "id": "SfLBIwDbWU",
+            "contents": [
+              {
+                "id": "vjfsdzgJRX",
+                "type": "button",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "href": {
+                    "name": "web",
+                    "values": {
+                      "href": "https://",
+                      "target": "_blank"
+                    },
+                    "attrs": {
+                      "href": "{{href}}",
+                      "target": "{{target}}"
+                    }
+                  },
+                  "buttonColors": {
+                    "color": "#FFFFFF",
+                    "backgroundColor": "#0071e3",
+                    "hoverColor": "#FFFFFF",
+                    "hoverBackgroundColor": "#3AAEE0"
+                  },
+                  "size": {
+                    "autoWidth": false,
+                    "width": "39%"
+                  },
+                  "fontSize": "17px",
+                  "textAlign": "right",
+                  "lineHeight": "120%",
+                  "padding": "10px 20px",
+                  "border": {},
+                  "borderRadius": "25px",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_button_2",
+                    "htmlClassNames": "u_content_button"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<span style=\"line-height: 20.4px; font-family: Inter, sans-serif;\">Buy</span>",
+                  "calculatedWidth": 129,
+                  "calculatedHeight": 41,
+                  "_override": {
+                    "mobile": {
+                      "textAlign": "center"
+                    }
+                  }
+                },
+                "hasDeprecatedFontControls": true
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_2",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "0px",
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          },
+          {
+            "id": "oHGVnfFNrL",
+            "contents": [
+              {
+                "id": "X9LHO8t95H",
+                "type": "text",
+                "values": {
+                  "containerPadding": "20px",
+                  "anchor": "",
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "17px",
+                  "color": "#0071e3",
+                  "textAlign": "left",
+                  "lineHeight": "140%",
+                  "linkStyle": {
+                    "inherit": true,
+                    "linkColor": "#0000ee",
+                    "linkHoverColor": "#0000ee",
+                    "linkUnderline": true,
+                    "linkHoverUnderline": true
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_text_3",
+                    "htmlClassNames": "u_content_text"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "text": "<p style=\"line-height: 140%;\">Learn more </p>",
+                  "_override": {
+                    "mobile": {
+                      "textAlign": "center"
+                    }
+                  }
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_3",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "0px",
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_2",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "he9WBb_LIA",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "9KxIY1TsoO",
+            "contents": [
+              {
+                "id": "-E84mVmKaX",
+                "type": "timer",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "countdown": {
+                    "countdownUrl": "https://countdown.unlayer.com/generate/y85j4ujqGN6N",
+                    "endTime": "2023-12-10T13:36:51",
+                    "backgroundColor": "#1d1d1f",
+                    "labelColor": "#FFFFFF",
+                    "labelFontFamily": "Georgia",
+                    "labelFontSize": 16,
+                    "digitColor": "#FFFFFF",
+                    "digitFontFamily": "Open Sans",
+                    "digitFontSize": 36,
+                    "timezone": "America/Los_Angeles",
+                    "locale": "en",
+                    "showLabels": false,
+                    "width": 350,
+                    "height": 43,
+                    "loading": false,
+                    "id": "y85j4ujqGN6N",
+                    "refreshedAt": 1701580167750
+                  },
+                  "width": {
+                    "autoWidth": true,
+                    "width": "100%"
+                  },
+                  "textAlign": "center",
+                  "altText": "Countdown",
+                  "action": {
+                    "name": "web",
+                    "values": {
+                      "href": "",
+                      "target": "_blank"
+                    }
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_timer_1",
+                    "htmlClassNames": "u_content_timer"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "hQ_oge-30c",
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin-top:60px\"></div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_4",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "Lc_5JEM7FN",
+                "type": "video",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "video": {
+                    "url": "https://web.telegram.org/k/stream/%7B%22dcId%22%3A1%2C%22location%22%3A%7B%22_%22%3A%22inputDocumentFileLocation%22%2C%22id%22%3A%225186256147601950055%22%2C%22access_hash%22%3A%224617130359770261022%22%2C%22file_reference%22%3A%5B2%2C81%2C45%2C171%2C81%2C0%2C0%2C25%2C25%2C101%2C108%2C0%2C38%2C188%2C224%2C2%2C194%2C123%2C31%2C46%2C107%2C13%2C114%2C140%2C25%2C233%2C174%2C212%2C28%5D%7D%2C%22size%22%3A634323%2C%22mimeType%22%3A%22video%2Fmp4%22%2C%22fileName%22%3A%22IMG_0476.MP4%22%7D",
+                    "thumbnail": null
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_video_1",
+                    "htmlClassNames": "u_content_video"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "TJ6qaeBuzl",
+                "type": "menu",
+                "values": {
+                  "containerPadding": "5px",
+                  "anchor": "",
+                  "menu": {
+                    "items": [
+                      {
+                        "key": "1676496571373",
+                        "link": {
+                          "name": "web",
+                          "attrs": {
+                            "href": "{{href}}",
+                            "target": "{{target}}"
+                          },
+                          "values": {
+                            "href": "https://www.apple.com/",
+                            "target": "_self"
+                          }
+                        },
+                        "text": "Shop Online"
+                      },
+                      {
+                        "key": "1676496577930",
+                        "link": {
+                          "name": "web",
+                          "attrs": {
+                            "href": "{{href}}",
+                            "target": "{{target}}"
+                          },
+                          "values": {
+                            "href": "https://www.apple.com/",
+                            "target": "_self"
+                          }
+                        },
+                        "text": "Find a Store"
+                      },
+                      {
+                        "key": "1676496581406",
+                        "link": {
+                          "name": "web",
+                          "attrs": {
+                            "href": "{{href}}",
+                            "target": "{{target}}"
+                          },
+                          "values": {
+                            "href": "https://www.apple.com/",
+                            "target": "_self"
+                          }
+                        },
+                        "text": "1-800-MY-APPLE"
+                      },
+                      {
+                        "key": "1676496588057",
+                        "link": {
+                          "name": "web",
+                          "attrs": {
+                            "href": "{{href}}",
+                            "target": "{{target}}"
+                          },
+                          "values": {
+                            "href": "https://www.apple.com/",
+                            "target": "_self"
+                          }
+                        },
+                        "text": "Get the Apple Store App"
+                      }
+                    ]
+                  },
+                  "fontFamily": {
+                    "label": "Inter",
+                    "value": "'Inter',sans-serif",
+                    "url": "https://fonts.googleapis.com/css2?family=Inter:wght@100;500&display=swap",
+                    "defaultFont": false,
+                    "weights": null
+                  },
+                  "fontSize": "14px",
+                  "textColor": "#424245",
+                  "linkColor": "#d2d2d7",
+                  "align": "center",
+                  "layout": "horizontal",
+                  "separator": "|",
+                  "padding": "5px 10px",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_menu_1",
+                    "htmlClassNames": "u_content_menu"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true,
+                  "_override": {
+                    "mobile": {
+                      "layout": "vertical"
+                    }
+                  }
+                }
+              },
+              {
+                "id": "mNBB5zCn71",
+                "type": "divider",
+                "values": {
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#424245"
+                  },
+                  "textAlign": "center",
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_divider_1",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "0StbXN16q7",
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin-top:80px\"></div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_5",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "pHwkUAXsPo",
+                "type": "social",
+                "values": {
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "icons": {
+                    "iconType": "circle",
+                    "icons": [
+                      {
+                        "name": "Facebook",
+                        "url": "https://facebook.com/"
+                      },
+                      {
+                        "name": "LinkedIn",
+                        "url": "https://linkedin.com/"
+                      },
+                      {
+                        "name": "Twitter",
+                        "url": "https://twitter.com/"
+                      },
+                      {
+                        "name": "Instagram",
+                        "url": "https://instagram.com/"
+                      },
+                      {
+                        "name": "GitHub",
+                        "url": "https://github.com/"
+                      },
+                      {
+                        "name": "Telegram",
+                        "url": "https://telegram.org/"
+                      },
+                      {
+                        "name": "WhatsApp",
+                        "url": "https://whatsapp.com/"
+                      },
+                      {
+                        "name": "Skype",
+                        "url": "https://skype.com/"
+                      },
+                      {
+                        "name": "YouTube",
+                        "url": "https://youtube.com/"
+                      }
+                    ],
+                    "editor": {
+                      "data": {
+                        "showDefaultIcons": true,
+                        "showDefaultOptions": true,
+                        "customIcons": [],
+                        "customOptions": []
+                      }
+                    }
+                  },
+                  "align": "center",
+                  "spacing": 5,
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_social_1",
+                    "htmlClassNames": "u_content_social"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "_meta": {
+                "htmlID": "u_column_10",
+                "htmlClassNames": "u_column"
+              },
+              "border": {},
+              "padding": "0px 30px",
+              "borderRadius": "0px",
+              "backgroundColor": ""
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "#1d1d1f",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "size": "custom",
+            "position": "center"
+          },
+          "padding": "10px 10px 50px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_7",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      }
+    ],
+    "headers": [],
+    "footers": [],
+    "values": {
+      "popupPosition": "center",
+      "popupWidth": "600px",
+      "popupHeight": "auto",
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "center",
+      "contentWidth": 700,
+      "fontFamily": {
+        "label": "Helvetica",
+        "value": "helvetica,sans-serif",
+        "url": "",
+        "weights": null,
+        "defaultFont": true
+      },
+      "textColor": "#ffffff",
+      "popupBackgroundColor": "#FFFFFF",
+      "popupBackgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "cover",
+        "position": "center"
+      },
+      "popupOverlay_backgroundColor": "rgba(0, 0, 0, 0.1)",
+      "popupCloseButton_position": "top-right",
+      "popupCloseButton_backgroundColor": "#DDDDDD",
+      "popupCloseButton_iconColor": "#000000",
+      "popupCloseButton_borderRadius": "0px",
+      "popupCloseButton_margin": "0px",
+      "popupCloseButton_action": {
+        "name": "close_popup",
+        "attrs": {
+          "onClick": "document.querySelector('.u-popup-container').style.display = 'none';"
+        }
+      },
+      "backgroundColor": "#1d1d1f",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": "no-repeat",
+        "size": "custom",
+        "position": "center"
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0071e3",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true,
+        "inherit": false
+      },
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 16
+}
